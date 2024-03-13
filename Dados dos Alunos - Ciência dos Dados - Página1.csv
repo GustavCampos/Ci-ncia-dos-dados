@@ -1,0 +1,40 @@
+Data de nascimento (d/m/a),Gênero (M/F),Altura (cm),Curso,Fala inglês (0/1),Estado Civil  (S/C/V),Cidade de moradia,Modo de deslocamento,Trabalha (0/1),Trabalha na área (0/1),Mora com os pais (0/1),Possui irmãos (0/1),Usa óculos (0/1),Peso (Kg),Horas semanais de trabalho,Horas semanais de estudo,Distância (km)  de sua casa até a universidade
+12/01/2004,M,179,Ciência da computação,0,S,Nova Ramada,Ônibus,1,0,1,0,0,79,40,20,70
+10/05/2003,M,172,Ciência da computação,1,S,Ijuí,Carro,1,0,1,0,1,85,40,35,"2,7"
+22/05/2002,M,195,CIência da computação,0,S,Santo Augusto,Ônibus,0,0,1,0,1,72,0,20,74
+12/02/2004,M,170,Engenharia de Software,1,S,Ijuí,Carro,1,1,0,1,1,95,20,16,2
+09/10/2000,F,160,Engenharia de Software,1,S,Ijuí,Carro,1,1,1,1,1,55,30,30,7
+26/12/2001,F,153,Ciência da computação,1,S,Ijuí,Carro,0,0,1,1,1,63,,,
+06/01/2003,M,169,CIência da computação,1,S,Cruz Alta,Ônibus,1,0,1,0,0,68,30,25,45
+20/12/1990,M,183,Engenharia elétrica,1,S,Ijuí,Carro,1,1,1,0,0,92,40,20,3
+24/11/2000,M,172,Ciência da computação,1,S,Panambi,Ônibus,1,1,0,1,1,74,44,15,42
+05/07/2003,F,160,Ciência da computação,1,S,Ijuí,Carro,1,1,0,0,1,56,40,25,0.3
+16/05/2003,M,182,Ciência da computação,1,S,Ijuí,Carro,1,1,1,1,0,80,30,25,1
+26/09/1997,M,176,Ciência da computação,1,S,Ijui,Carro,1,1,1,1,1,70,44,25,3.4
+07/07/2004,M,187,Ciência da computação,1,S,Ijui,Carro,1,1,1,0,1,82,40,25,"1,5"
+21/10/3003,M,180,Ciência da computação ,1,S,Ijuí ,Carro,0,0,1,1,1,68,0,25,2
+08/11/2003,M,182,Ciência da computação,1,S,Santo Ângelo,Van,1,1,1,1,0,90,,,
+16/06/2004,M,180,Engenharia de Software,1,S,Santo Augusto,Ônibus,0,0,0,1,1,110,0,35,74
+21/06/2000,M,184,Ciência da computação,1,S,Ijui,Carro,0,0,1,1,0,73,0,10,0.7
+18/01/2004,F,165,Ciência da computação,1,S,Ijui,Carro,1,1,1,1,0,46,30,25,1.4
+26/02/2002,M,170,Ciência da Computação,0,C,Ijuí,Carro,1,0,0,1,1,63,44,20,1
+21/12/2001,M,175,Ciência da Computação,0,S,Ijuí,Carro,1,1,1,1,1,73,25,20,3
+11/03/2004,M,172,Ciência da Computação,1,S,Ijuí,Carro,1,1,1,0,1,60,,,
+20/12/2002,M,170,Ciência da Computação,1,S,Ijuí,Carro,1,1,1,1,0,58,,,
+04/03/2004,M,181,Ciência da Computação,1,S,Ijuí,Carro/moto,1,1,1,1,0,64,44,15,"0,85"
+20/08/2003,M,179,Ciência da Computação,1,S,Ijuí,Carro,0,0,1,1,1,69,,16,3
+03/10/2002,M,170,Ciência da Computação,1,C,Ijuí,Carro,1,1,0,1,0,60,,,
+17/09/2003,M,179,Ciência da Computação,1,S,Ijuí,Van,0,0,1,1,1,72,0,20,3.5
+03/05/2004,M,165,Ciência da Computação,1,S,Independência,Ônibus,0,0,1,0,0,68,0,26,70
+28/02/2002,M,180,Ciência da Computação,1,S,Ijuí,Carro,0,0,1,0,1,92,0,10,2
+29/01/2002,M,178,Engenharia de Software,0,S,Ijuí,Moto,1,0,1,1,0,72,30,25,5
+23/06/2003,M,180,Ciência da Computação,1,S,Ijui,Carro,1,1,1,1,0,64,30,20,1.00
+08/02/2004,M,170,Ciência da Computação,1,S,Boa Vista do Cadeado,Van,0,0,1,0,0,63,0,20,25
+02/12/2002,M,179,Engenharia de Software,1,S,Ijuí,Carro,1,0,1,1,0,70,,,
+09/06/2004,M,183,Ciência da Computação,0,s,Augusto Pestana,van,1,0,1,1,0,100,44,20,20
+15/04/2003,M,174,Ciência da Computação,0,S,Ijuí,Carro,1,1,0,1,0,92,40,10,"0,5"
+17/04/2002,M,170,Ciência da Computação,0,S,Ijuí,Carro,1,1,1,0,0,70,,,
+15/07/2003,M,180,Ciência da Computação,1,S,Independência,Ônibus,1,1,1,0,0,68,,,
+04/08/2003,M,174,Ciência da Computação,1,S,Panambi,Ônibus,1,1,1,1,1,70,,,
+18/06/2002,M,169,Ciência da Computação,1,S,Ijuí,Carro,1,1,1,1,0,90,40,15,5
+26/02/2004,M,175,Ciência da Computação,1,S,Ajuricaba,Carro,1,0,1,1,1,84,35,20,40
